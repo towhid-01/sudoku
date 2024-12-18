@@ -1,0 +1,19 @@
+# Ignore temporary and build files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+
+# Ignore Unity auto-generated files
+UserSettings/
+Packages/com.unity.*
+*.csproj
+*.sln
+*.userprefs
+
+# Visual Studio/JetBrains Rider files
+.vs/
+.idea/
+ 
